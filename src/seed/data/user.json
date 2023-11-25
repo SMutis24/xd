@@ -1,0 +1,16 @@
+[
+  {
+    "user": "smutis2402",
+    "name": "Santiago",
+    "lastname": "Mutis",
+    "password": "$2b$10$zMsKIPzOckSiLrkJCv1sVu9I8hu1POCE92iauLGYMzPdquKQvMxjC",
+    "email": "santiagomutistest@gmail.com"
+  },
+  {
+    "user": "dperez2402",
+    "name": "daniel",
+    "lastname": "perez",
+    "password": "$2b$10$zMsKIPzOckSiLrkJCv1sVu9I8hu1POCE92iauLGYMzPdquKQvMxjC",
+    "email": "dpereztest@gmail.com"
+  }
+]
